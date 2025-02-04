@@ -8,7 +8,7 @@
     "bo": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ།",
     "en": "Tsongkhapa Lobzang Drakpa"
   },
-  "imported": "2025-02-04T15:47:03.087968",
+  "imported": "2025-02-04T16:35:04.402533",
   "source": null,
   "toolkit_version": "0.0.1",
   "parser": "DocxNumberListCommentaryParser",
@@ -19,7 +19,7 @@
     "commentary_alignments": [
       {
         "source": "I41B73129/layers/E0E6/Tibetan_Segment-04B1.json",
-        "target": "I961F22EB/layers/0A22/Meaning_Segment-FFA7.json"
+        "target": "I961F22EB/layers/AF50/Meaning_Segment-AA5C.json"
       }
     ]
   },
